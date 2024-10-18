@@ -79,7 +79,7 @@ include "koneksidb.php";
                         </div>
                         <div class="modal-footer">
                             <button type="submit" class="btn btn-primary" name="bhapus">Hapus</button>
-                            <button type="button" class="btn btn-danger" data-bs-dismis="modal">batal</button>
+                            <button type="button" class="btn btn-danger" data-bs-dismiss="modal">batal</button>
                         </div>
                     </form>
                 </div>
